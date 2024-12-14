@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Ahmed Muse Farah</h1>
-<h3 align="center">🚀 Full-Stack Developer | Python Enthusiast | MERN & PERN Specialist</h3>
+<h3 align="center">🚀 Full-Stack Software Developer | Python Enthusiast | MERN & PERN stack Specialist </h3>
 
 ---
 
 ### 🌟 About Me  
-- 💻 I build **full-stack web applications** using **Python** and **JavaScript**.  
+- 💻 I'm **full-stack software developer** using **Python** and **JavaScript**.  
 - 🔧 Skilled in modern technologies: **MERN** (MongoDB, Express.js, React, Node.js) & **PERN** (PostgreSQL, Express.js, React, Node.js).  
 - 🎯 Currently learning **AI & Data Science**.  
 - 🌍 Exploring **Ruby** for future web projects (2025 Goal).  
