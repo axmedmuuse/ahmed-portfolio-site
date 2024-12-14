@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ahmed Muse Farah</h1>
-<h3 align="center">🚀 Full-Stack Software Developer | Python Enthusiast | MERN & PERN stack Specialist </h3>
+<h3 align="center">🚀 Full-Stack Software Developer | Python Enthusiast | MERN & PERN Stack Specialist </h3>
 
 ---
 
