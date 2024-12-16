@@ -5,7 +5,7 @@
 
 ### 🌟 About Me  
 - 💻 I'm **Full-Stack Software Developer** using **Python** and **JavaScript**.  
-- 🔧 Skilled in modern technologies: **MERN Stack** (MongoDB, Express.js, React, Node.js) & **PERN Stack** (PostgreSQL, Express.js, React, Node.js).  
+- 🔧 Skilled in modern technologies: **MERN Stack** (MongoDB, Express.js, React, Node.js) & **PERN Stack** (PostgreSQL).  
 - 🎯 Currently learning **AI & Data Science**.  
 - 🌍 Exploring **Ruby** for future web projects (2025 Goal).  
 
