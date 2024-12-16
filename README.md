@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Ahmed Muse </h1>
-<h3 align="center">🚀 Full-Stack Software Developer | Python Enthusiast | MERN & PERN Stack Specialist </h3>
+<h1 align="center">👋 Hi, Welecome to my github </h1>
+<h2 align="center">👋 I'm Ahmed Muse </h2>
 
 ---
 
 ### 🌟 About Me  
-- 💻 I'm **full-stack software developer** using **Python** and **JavaScript**.  
-- 🔧 Skilled in modern technologies: **MERN** (MongoDB, Express.js, React, Node.js) & **PERN** (PostgreSQL, Express.js, React, Node.js).  
+- 💻 I'm **Full-Stack Software Developer** using **Python** and **JavaScript**.  
+- 🔧 Skilled in modern technologies: **MERN Stack** (MongoDB, Express.js, React, Node.js) & **PERN Stack** (PostgreSQL, Express.js, React, Node.js).  
 - 🎯 Currently learning **AI & Data Science**.  
 - 🌍 Exploring **Ruby** for future web projects (2025 Goal).  
 
