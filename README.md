@@ -23,9 +23,9 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-muse-97&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=axmedmuuse&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-muse-97&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axmedmuuse&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
